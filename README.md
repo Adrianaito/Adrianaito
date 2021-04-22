@@ -2,19 +2,17 @@
 
 <h3 align="center">I'm passionate about learning and create cool stuff!</h3>
 
-</br>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.com/)
 
 - 📫 How to reach me 👉 **ito.dri@gmail.com**
-</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriana-ito" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adriana-ito" /></a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adriana-ito" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adriana-ito" /></a>
 </p>
-</br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

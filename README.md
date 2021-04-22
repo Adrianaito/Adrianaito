@@ -3,6 +3,8 @@
 <h3>I'm passionate about learning and create cool stuff!</h3>
 
 
+- 🇧🇷 Brazilian web developer based in 🇯🇵 Japan
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.com/)

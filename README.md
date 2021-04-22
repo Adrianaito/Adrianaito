@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Adriana</h1>
+<h1>Hello 👋, I'm Adriana</h1>
 
-<h3 align="center">I'm passionate about learning and create cool stuff!</h3>
+<h3>I'm passionate about learning and create cool stuff!</h3>
 
 
 - 🌱 I’m currently learning **React**

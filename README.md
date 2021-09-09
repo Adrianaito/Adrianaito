@@ -5,7 +5,7 @@
 
 - 🇧🇷 Brazilian web developer based in 🇯🇵 Japan
 
-- 🌱 I’m currently learning **Java** , **Next.js**, **Python**
+- 🌱 I’m currently learning **Next.js**, **Python**
 
 - 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.com/)
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3**, **TypeScript**
 
-- 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.com/)
+- 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.info/](https://www.adrianaito.com/)
 
 - 📫 How to reach me 👉 **ito.dri@gmail.com**
 

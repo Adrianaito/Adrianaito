@@ -5,8 +5,6 @@
 
 - 🇧🇷 Brazilian web developer based in 🇯🇵 Japan
 
-- 🌱 I’m currently learning **Web3**, **TypeScript**
-
 - 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.info/)
 
 - 📫 How to reach me 👉 **ito.dri@gmail.com**

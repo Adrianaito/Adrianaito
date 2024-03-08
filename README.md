@@ -5,7 +5,7 @@
 
 - 🇧🇷 Brazilian web developer based in 🇯🇵 Japan
 
-- 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.info/)
+- 👨‍💻 This is my portfolio 👉 [https://www.adrianaito.com/](https://www.adrianaito.com/)
 
 - 📫 How to reach me 👉 **ito.dri@gmail.com**
 
